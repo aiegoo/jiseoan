@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://pf5.36io.co'
+SITEURL = 'pf5.36io.co[D[D[D[D[D[D[D[D[D[D[D[D[D[D0[C[C[D[h[C[Chttps://pf5.36io.co.'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'

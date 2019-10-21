@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'tonylee'
-SITENAME = 'Jiseonan-Tonylee'
+AUTHOR = 'aiegoo'
+SITENAME = 'jiseoan'
 SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Asia/Seoul'
+TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'Korean'
 
